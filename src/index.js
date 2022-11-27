@@ -166,5 +166,3 @@ function gameOver(squares) {
   }
   return null
 }
-//   TODO: IMPLEMENTING TIME TRAVEL
-// https://gogoanime.ar/charlotte-episode-4
